@@ -1,9 +1,9 @@
 {
-  "name": "test-chrome-extension-popup-animate",
+  "name": "test-chrome-extension-sandbox-header",
   "version": "0.1",
   "manifest_version": 2,
   "description":
-    "If you change the popup HTML as it animates slide down, then it doesn't fully appear",
+    "Test to trigger settimeout not working on content security policy sandbox pages",
   "browser_action": {
     "default_popup": "popup.html"
   },
