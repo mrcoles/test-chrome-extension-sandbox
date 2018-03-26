@@ -2,6 +2,8 @@
 Content Security Policy Sandbox and SetTimeout in Content Script
 ================================================================
 
+*NOTE: if you’re looking for the popup animate bug [issue 813371](https://bugs.chromium.org/p/chromium/issues/detail?id=813371) see [this repo](https://github.com/mrcoles/test-chrome-extension-popup-animate).*
+
 Tested with:
 
 *   Chrome 64.0.3282
